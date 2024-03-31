@@ -34,7 +34,7 @@
  <img align="right" width="350" src="/assets/programmer2.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and building applications <br/><br/>
- ❤️ &emsp; Love to read book write code and learn new features<br/><br/>
+ ❤️ &emsp; Love to read books write code and learn new features<br/><br/>
  📧 &emsp; Reach me anytime: mohammadrokibkhan@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/mohammadrokib/mohammadrokib/issues)
 
