@@ -31,7 +31,8 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <!-- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" /> -->
+ <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
   
  ✌️ &emsp; Enjoy to do programming and building applications <br/><br/>
  ❤️ &emsp; Love to read book write code and learn new features<br/><br/>
