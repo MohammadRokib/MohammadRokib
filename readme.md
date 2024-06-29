@@ -10,7 +10,7 @@
   <samp>
     <a href="https://www.google.com/search?sca_esv=3df8528f973dbd03&sca_upv=1&sxsrf=ACQVn0_MgdT-CF7K2P4uAmIyaVfqzWWNiw:1711862887059&q=M0hammadRokib&nfpr=1&sa=X&ved=2ahUKEwi29qWa4p2FAxWY-TgGHYB0CN0QvgUoAXoECAcQAw&biw=1360&bih=654&dpr=1">「 Google Me 」</a>
     <br>
-    「 I am a Web Application Developer from <b>Bangladesh</b> 」
+<!--     「 I am a Web Application Developer from <b>Bangladesh</b> 」 -->
     <br>
     <br>
   </samp>
