@@ -65,10 +65,10 @@
 <br/>
 
 ## Top Open Source -
-[![Task Manager](https://github-readme-stats-git-master-mohammadrokibs-projects.vercel.app/api/pin/?username=mohammadrokib&repo=TaskManager&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MohammadRokib/TaskManager)
-[![CourseManagement](https://github-readme-stats-git-master-mohammadrokibs-projects.vercel.app/api/pin/?username=mohammadrokib&repo=CourseManagement&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MohammadRokib/CourseManagement)
-[![Url Shortener](https://github-readme-stats-git-master-mohammadrokibs-projects.vercel.app/api/pin/?username=mohammadrokib&repo=Url-Shortener&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MohammadRokib/Url-Shortener)
-[![Property Block](https://github-readme-stats-git-master-mohammadrokibs-projects.vercel.app/api/pin/?username=mohammadrokib&repo=PropertyBlock&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MohammadRokib/PropertyBlock)
+[![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=mohammadrokib&repo=TaskManager&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MohammadRokib/TaskManager)
+[![CourseManagement](https://github-readme-stats.vercel.app/api/pin/?username=mohammadrokib&repo=CourseManagement&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MohammadRokib/CourseManagement)
+[![Url Shortener](https://github-readme-stats.vercel.app/api/pin/?username=mohammadrokib&repo=Url-Shortener&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MohammadRokib/Url-Shortener)
+[![Property Block](https://github-readme-stats.vercel.app/api/pin/?username=mohammadrokib&repo=PropertyBlock&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MohammadRokib/PropertyBlock)
 
 <p align="left">
   <a href="https://github.com/mohammadrokib?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -96,8 +96,8 @@
 </p>
 
 <a> 
-    <a href="https://github.com/mohammadrokib"><img alt="MohammadRokib's Github Stats" src="https://github-readme-stats-git-master-mohammadrokibs-projects.vercel.app/api?username=mohammadrokib&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/mohammadrokib"><img alt="MohammadRokib's Top Languages" src="https://github-readme-stats-git-master-mohammadrokibs-projects.vercel.app/api/top-langs/?username=mohammadrokib&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/mohammadrokib"><img alt="MohammadRokib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mohammadrokib&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/mohammadrokib"><img alt="MohammadRokib's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mohammadrokib&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
